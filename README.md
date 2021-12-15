@@ -9,7 +9,7 @@ This guide will use the dhall configuration language to generate a resume using 
 
 ## User Stories
 
-- _story-1_ Generate basic information
+- **story-1** Generate basic information
   1. Should generate the following structure:
     ```JSON
 		{
